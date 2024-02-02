@@ -4,5 +4,5 @@ This is the official GitHub repository for the research project titled "Can AI t
 # Files and Directories
 1. Appendix  
       * [Data collection instrument](https://github.com/SHREpaper/SIHE_paper_2024/blob/main/Appendix/survey.pdf): PDF version of data collection instrument.
-      * [COD_themes.xlsx](https://github.com/SHREpaper/SIHE_paper_2024/blob/main/Appendix/qualitative_data-COD%20themes.xlsx): Excel spreadsheet detailing the coding scheme and showcasing the qualitative data collected. Note: participant codes and identifying information has been removed and some of the text has been modified to remove participant identifying information (e.g., university).
+      * [Qualitative coding - Key theme identification](https://github.com/SHREpaper/SIHE_paper_2024/blob/main/Appendix/Figure%201%20-%20Key%20themes.pdf): PDF document detailing the coding scheme and showcasing some of the qualitative data collected. Note: participant codes and identifying information has been removed and some of the text has been modified to remove participant identifying information (e.g., university).
      
